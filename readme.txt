@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Push the files to GitHub.
 HttpRequestException encountered.
+Creating a new branch is quick.
