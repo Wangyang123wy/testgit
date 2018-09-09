@@ -7,3 +7,4 @@ HttpRequestException encountered.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Merge with no-ff.
+Add a bug branch.
